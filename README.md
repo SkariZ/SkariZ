@@ -1,6 +1,6 @@
-- 👋 Hi, I'm a first-year Ph.D. student working on the characterization of biological nanoparticles using holography and deep learning.
-- 🌱 I’m currently learning biophysics, blockchain-technology and AI.
+- 👋 Hi, Ph.D. student working on the characterization of biological nanoparticles using holography and deep learning.
 - 💞️ I’m looking to collaborate on deep-learning projects.
+- 🌱 Teacher in Python programming.
 - 📫 fredrik.skarberg@physics.gu.se // fredrik.skarberg@hotmail.com
 
 <!---
