@@ -1,7 +1,7 @@
-- 👋 Hi, Ph.D. student working on the characterization of biological nanoparticles using holography and deep learning.
+- 👋 Hi, Ph.D. in Physics & AI with expertize in the characterization of nanoparticles and cells using holography and deep learning.
 - 💞️ I’m looking to collaborate on deep-learning projects.
 - 🌱 Teacher in Python programming.
-- 📫 fredrik.skarberg@physics.gu.se // fredrik.skarberg@hotmail.com
+- 📫 fredrik.skarberg@hotmail.com // fredrik.skarberg@physics.gu.se 
 
 <!---
 SkariZ/SkariZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
