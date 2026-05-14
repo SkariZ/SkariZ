@@ -1,4 +1,4 @@
-- 👋 Hi, Ph.D. in Physics & AI with expertize in the characterization of nanoparticles and cells using holography and deep learning.
+- 👋 Hi, Ph.D. in Physics & AI with expertize in the characterization of nanoparticles and cells using holography and deep learning. Interests: computer vision, scientific AI, quantitative imaging
 - 💞️ I’m looking to collaborate on deep-learning projects.
 - 🌱 Teacher in Python programming.
 - 📫 fredrik.skarberg@hotmail.com
